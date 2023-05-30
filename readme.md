@@ -95,5 +95,12 @@ Certainly! Here's the README section for the provided LeetCode link:
 | [Tips for Answering Few Tricky Behavioral Interview Questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions) | [Link to Solution](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions) |
 
 
+## LinkedList
+
+| Title                                                                                                       | Solution                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Become Master in Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) | [Link to Study Guide](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)         |
+
+
 
 ## Credits: Leetcode Discuss Section
