@@ -26,5 +26,17 @@ This repository contains a collection of useful LeetCode resources for studying 
 
 
 
+
 ---
+
+## Binary Search Template in Python
+
+This section provides a powerful and ultimate binary search template in Python, which can be applied to solve a variety of problems efficiently. The template includes the necessary code structure and guidelines to help you tackle binary search problems effectively.
+
+| Title | Solution |
+|-------|----------|
+| [Python Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) | [Link to Solution](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) |
+
+
+
 
