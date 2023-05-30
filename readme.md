@@ -38,5 +38,18 @@ This section provides a powerful and ultimate binary search template in Python, 
 | [Python Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) | [Link to Solution](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) |
 
 
+Certainly! Here's the README section for the provided LeetCode link:
+
+---
+
+## Graph for Beginners
+
+This section is dedicated to understanding graphs and solving beginner-level graph problems on LeetCode. It provides an overview of graph theory, common graph algorithms, and sample solutions to help you get started with graph-related problems.
+
+| Title | Solution |
+|-------|----------|
+| [Graph for Beginners: Problems, Patterns, Sample Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions) | [Link to Solution](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions) |
 
 
+
+Credits: Leetcode Discuss Section
