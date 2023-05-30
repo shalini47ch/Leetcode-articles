@@ -1,6 +1,3 @@
-Leetcode Important Articles
-
----
 
 # LeetCode Study Guide
 
@@ -38,7 +35,7 @@ This section provides a powerful and ultimate binary search template in Python, 
 | [Python Powerful Ultimate Binary Search Template](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) | [Link to Solution](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) |
 
 
-Certainly! Here's the README section for the provided LeetCode link:
+
 
 ---
 
@@ -64,4 +61,4 @@ Certainly! Here's the README section for the provided LeetCode link:
 | [Topics You Can't Skip: Interview Preparation Study Plan using LeetCode](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode) | [Link to Solution](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode) |
 
 
-Credits: Leetcode Discuss Section
+## Credits: Leetcode Discuss Section
