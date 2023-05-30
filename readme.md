@@ -97,5 +97,12 @@ This repository contains a collection of useful LeetCode resources for studying 
 | [Become Master in Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list) | [Link to Study Guide](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)         |
 
 
+## Heaps
+
+| Title                                                                                                                          | Solution                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| [Master Heap by Solving 23 Questions in 4 Patterns Category](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category) | [Link to Article](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category) |
+
+
 
 ## Credits: Leetcode Discuss Section
