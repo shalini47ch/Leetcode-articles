@@ -1,4 +1,4 @@
-Leetcode Important Articles
+# Leetcode Important Articles
 
 ---
 
@@ -52,4 +52,4 @@ This section is dedicated to understanding graphs and solving beginner-level gra
 
 
 
-Credits: Leetcode Discuss Section
+## Credits: Leetcode Discuss Section
