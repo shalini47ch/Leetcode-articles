@@ -48,9 +48,7 @@ This section is dedicated to understanding graphs and solving beginner-level gra
 | [Graph for Beginners: Problems, Patterns, Sample Solutions](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions) | [Link to Solution](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions) |
 
 
-Certainly! Here's the README section for the provided LeetCode link:
 
----
 
 ## Core CS
 
