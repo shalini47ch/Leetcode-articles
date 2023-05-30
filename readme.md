@@ -1,6 +1,3 @@
-# Leetcode Important Articles
-
----
 
 # LeetCode Study Guide
 
