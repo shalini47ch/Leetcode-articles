@@ -28,7 +28,6 @@ This repository contains a collection of useful LeetCode resources for studying 
 
 ## Binary Search Template in Python
 
-This section provides a powerful and ultimate binary search template in Python, which can be applied to solve a variety of problems efficiently. The template includes the necessary code structure and guidelines to help you tackle binary search problems effectively.
 
 | Title | Solution |
 |-------|----------|
@@ -41,7 +40,6 @@ This section provides a powerful and ultimate binary search template in Python, 
 
 ## Graph for Beginners
 
-This section is dedicated to understanding graphs and solving beginner-level graph problems on LeetCode. It provides an overview of graph theory, common graph algorithms, and sample solutions to help you get started with graph-related problems.
 
 | Title | Solution |
 |-------|----------|
@@ -82,9 +80,6 @@ This section is dedicated to understanding graphs and solving beginner-level gra
 | [Summary of Sliding Window Patterns for Subarray/Substring](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) | [Link to Solution](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) |
 
 
-Certainly! Here's the README section for the provided LeetCode link:
-
----
 
 ## Tips and Tricks
 
