@@ -82,5 +82,18 @@ This section is dedicated to understanding graphs and solving beginner-level gra
 | [Summary of Sliding Window Patterns for Subarray/Substring](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) | [Link to Solution](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) |
 
 
+Certainly! Here's the README section for the provided LeetCode link:
+
+---
+
+## Tips and Tricks
+
+
+
+| Title | Solution |
+|-------|----------|
+| [Tips for Answering Few Tricky Behavioral Interview Questions](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions) | [Link to Solution](https://leetcode.com/discuss/interview-experience/1532708/tips-for-answering-few-tricky-behavioural-interview-questions) |
+
+
 
 ## Credits: Leetcode Discuss Section
