@@ -61,4 +61,28 @@ Certainly! Here's the README section for the provided LeetCode link:
 | [Topics You Can't Skip: Interview Preparation Study Plan using LeetCode](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode) | [Link to Solution](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode) |
 
 
+
+
+
+## System Design Resources for Interviews
+
+
+
+| Title | Solution |
+|-------|----------|
+| [Helpful List of LeetCode Posts on System Design at Facebook, Google, Amazon, Uber, Microsoft](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft) | [Link to Solution](https://leetcode.com/discuss/interview-question/1140451/helpful-list-of-leetcode-posts-on-system-design-at-facebook-google-amazon-uber-microsoft) |
+
+
+
+
+## Sliding Window Patterns for Subarray and Substring Problems
+
+
+
+| Title | Solution |
+|-------|----------|
+| [Summary of Sliding Window Patterns for Subarray/Substring](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) | [Link to Solution](https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring) |
+
+
+
 ## Credits: Leetcode Discuss Section
