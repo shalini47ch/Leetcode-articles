@@ -104,5 +104,14 @@ This repository contains a collection of useful LeetCode resources for studying 
 | [Master Heap by Solving 23 Questions in 4 Patterns Category](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category) | [Link to Article](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category) |
 
 
+## Monotonic Stack
+
+
+
+| Title | Solution |
+|-------|----------|
+| [Monotonic stack problems](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems) | [Link to Solution](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems) |
+
+
 
 ## Credits: Leetcode Discuss Section
