@@ -3,6 +3,11 @@
 
 This repository contains a collection of useful LeetCode resources for studying and mastering various topics in computer science and programming. The guide includes explanations, patterns, and solutions to help you improve your problem-solving skills.
 
+# Constraints to decide the time complexity
+![Time complexity constraints](https://github.com/shalini47ch/Leetcode-articles/assets/60210475/e08d6c24-6412-4b34-9ddb-1b3f64fdc213)
+
+
+
 ## Dynamic Programming Patterns
 
 | Title | Solution |
